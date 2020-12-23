@@ -1,13 +1,28 @@
-body {background-color: rgb(26, 68, 184);}
+body {background-image: url("https://www.teahub.io/photos/full/174-1743008_widescreen-cool-background-cool-backgrounds.jpg");}
+   
+.navbar {
+    background-color: rgb(103, 209, 200);
+}
+
+.nav-link {
+    color: black;
+    font-weight: bold;
+}
 
 .jumbotron {
-    background-color: lightblue;
+    background-color:lightsteelblue;
+    max-width: 100%;
+}
+
+#myName {
+    font-weight: bold;
+    font-size: x-large;
 }
 
 #aboutme {
     font-weight: bold;
-    font font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-}
+    /* font font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; */
+    }
 
 #Portfolio {
     font-weight: bold;
@@ -28,10 +43,20 @@ body {background-color: rgb(26, 68, 184);}
     font-weight: bold;
 }
 
-.media {
+.img {
     padding: 20px;
+    max-width: 100%;
+     height: auto; }
+
+
+
+.form-control {
+    border: black;
+    border-style: solid;
 }
 
 .footer {
     padding-top: 100px;
+   
+    
 }
