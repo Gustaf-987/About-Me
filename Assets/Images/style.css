@@ -34,7 +34,8 @@ body {background-image: url("https://www.teahub.io/photos/full/174-1743008_wides
 
 #myimg {
     float: left;
-    margin-right: 20px;
+    /* margin-right: 20px; */
+    padding: 5px;
 }
 
 .text {
