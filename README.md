@@ -1,4 +1,4 @@
-# Homework 2 About Me
+# About Me
 
 Using Bootstrap as a framework, this is a webpage giving a short description of myself and showing off a few of my projects. Included are links to my Github and Linkedin profiles with a current resume.
 
