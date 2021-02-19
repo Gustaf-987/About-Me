@@ -4,4 +4,4 @@ Using Bootstrap as a framework, this is a webpage giving a short description of 
 
 Deployed link: https://gustaf-987.github.io/Homework2-About-Me/
 <br>
-Repository link: https://github.com/Gustaf-987/Homework2-About-Me 
+Repository link: https://github.com/Gustaf-987/About-Me
